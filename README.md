@@ -1,2 +1,2 @@
 # hhshow
-GUI for HaHA
+GUI for HaHA (Harry's Home Automation)
